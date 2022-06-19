@@ -8,17 +8,20 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
-    //Time complexity : O(N)
-    //Space Complexity : O(N)
+class Solution
+{
+    // Time complexity : O(N)
+    // Space Complexity : O(1)
 public:
-    ListNode* reverseList(ListNode* head) {
-        ListNode *curr=head;
-        ListNode *post=head;
-        ListNode *prev=NULL;
-        while(curr){
+    ListNode *reverseList(ListNode *head)
+    {
+        ListNode *curr = head;
+        ListNode *post = head;
+        ListNode *prev = NULL;
+        while (curr)
+        {
             post = curr->next;
-            curr->next=prev;
+            curr->next = prev;
             prev = curr;
             curr = post;
         }
