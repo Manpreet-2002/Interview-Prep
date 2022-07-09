@@ -1,0 +1,1 @@
+{"name":"Local: minSubsetSumDif","url":"c:\\Users\\manah\\Desktop\\Placement\\DP\\0-1 Knapsack\\minSubsetSumDif.cpp","tests":[{"id":1657378014861,"input":"4\n1 6 11 5","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manah\\Desktop\\Placement\\DP\\0-1 Knapsack\\minSubsetSumDif.cpp","group":"local","local":true}

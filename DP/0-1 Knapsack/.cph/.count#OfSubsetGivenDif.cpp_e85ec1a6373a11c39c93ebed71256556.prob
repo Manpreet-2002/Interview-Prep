@@ -1,0 +1,1 @@
+{"name":"Local: count#OfSubsetGivenDif","url":"c:\\Users\\manah\\Desktop\\Placement\\DP\\0-1 Knapsack\\count#OfSubsetGivenDif.cpp","tests":[{"id":1657384967405,"input":"4\n1 1 2 3\n1","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manah\\Desktop\\Placement\\DP\\0-1 Knapsack\\count#OfSubsetGivenDif.cpp","group":"local","local":true}
