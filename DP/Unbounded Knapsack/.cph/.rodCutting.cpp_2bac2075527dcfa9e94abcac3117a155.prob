@@ -1,0 +1,1 @@
+{"name":"Local: rodCutting","url":"c:\\Users\\manah\\Desktop\\Placement\\DP\\Unbounded Knapsack\\rodCutting.cpp","tests":[{"id":1657394627817,"input":"8\n1 5 8 9 10 17 17 20\n8","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manah\\Desktop\\Placement\\DP\\Unbounded Knapsack\\rodCutting.cpp","group":"local","local":true}
