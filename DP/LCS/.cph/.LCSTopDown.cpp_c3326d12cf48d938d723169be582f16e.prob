@@ -1,0 +1,1 @@
+{"name":"Local: LCSTopDown","url":"c:\\Users\\manah\\Desktop\\Placement\\DP\\LCS\\LCSTopDown.cpp","tests":[{"id":1657521524523,"input":"abcdgh\nabedfhr","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manah\\Desktop\\Placement\\DP\\LCS\\LCSTopDown.cpp","group":"local","local":true}

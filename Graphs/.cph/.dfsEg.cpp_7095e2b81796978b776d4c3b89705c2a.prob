@@ -1,0 +1,1 @@
+{"name":"Local: dfsEg","url":"c:\\Users\\manah\\Desktop\\Placement\\Graphs\\dfsEg.cpp","tests":[{"id":1657569085395,"input":"5 5\n1 2\n2 3\n3 4\n2 4\n4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manah\\Desktop\\Placement\\Graphs\\dfsEg.cpp","group":"local","local":true}

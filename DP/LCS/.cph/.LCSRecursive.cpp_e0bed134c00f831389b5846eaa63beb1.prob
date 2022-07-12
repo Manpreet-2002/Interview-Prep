@@ -1,0 +1,1 @@
+{"name":"Local: LCSRecursive","url":"c:\\Users\\manah\\Desktop\\Placement\\DP\\LCS\\LCSRecursive.cpp","tests":[{"id":1657487280092,"input":"abcdgh\nabedfhr","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manah\\Desktop\\Placement\\DP\\LCS\\LCSRecursive.cpp","group":"local","local":true}
