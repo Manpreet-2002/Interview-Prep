@@ -1,0 +1,1 @@
+{"name":"Local: longestCommonSubstring","url":"c:\\Users\\manah\\Desktop\\Placement\\DP\\LCS\\longestCommonSubstring.cpp","tests":[{"id":1657742974128,"input":"abcde\nabfce","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\manah\\Desktop\\Placement\\DP\\LCS\\longestCommonSubstring.cpp","group":"local","local":true}

@@ -17,13 +17,11 @@ int func(string x, string y, int n, int m)
     char s2 = y[m - 1];
     if (s1 == s2)
     {
-        t[n][m] = func(x, y, n - 1, m - 1) + 1;
-        return t[n][m];
+        return t[n][m] = func(x, y, n - 1, m - 1) + 1;
     }
     else
     {
-        t[n][m] = max(func(x, y, n, m - 1), func(x, y, n - 1, m));
-        return t[n][m];
+        return t[n][m] = max(func(x, y, n, m - 1), func(x, y, n - 1, m));
     }
 }
 int main()
