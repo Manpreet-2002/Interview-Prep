@@ -3,7 +3,7 @@ using namespace std;
 
 const int N = 1e5 + 10;
 vector<int> graph[N];
-/**We precomute the sums of all subtrees and
+/**We precompute the sums of all subtrees and
  * try to find the max product of sum in 0(N) time by using a for loop
  **/
 

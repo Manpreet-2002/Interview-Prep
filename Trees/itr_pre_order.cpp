@@ -61,5 +61,9 @@ int main()
     root->right->left = new TreeNode(6);
     root->right->right = new TreeNode(7);
     root->right->right->right = new TreeNode(12);
-    itrPreOrder(root);
+    // itrPreOrder(root);
+    string num = "223";
+    string s = to_string(root->data);
+    num.append(s);
+    cout << num;
 }
