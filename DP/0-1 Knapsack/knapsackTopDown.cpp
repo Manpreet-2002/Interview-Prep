@@ -34,16 +34,10 @@ int knapsack(vector<int> wt, vector<int> val, int w, int n)
 int main()
 {
     vector<int> wt;
-    wt.push_back(1);
-    wt.push_back(3);
-    wt.push_back(4);
-    wt.push_back(5);
+    wt = {12, 7, 12, 10, 41, 41, 1, 6, 30, 20, 9, 35, 9, 11, 32, 24, 42, 48, 37, 36};
     vector<int> val;
-    val.push_back(1);
-    val.push_back(4);
-    val.push_back(5);
-    val.push_back(7);
-    int w = 7;
-    cout << knapsack(wt, val, w, 4);
+    val = {32, 18, 24, 48, 14, 5, 29, 47, 13, 41, 48, 30, 45, 20, 13, 44, 1, 10, 9, 20};
+    int w = 300;
+    cout << knapsack(wt, val, w, 20);
     return 0;
 }
